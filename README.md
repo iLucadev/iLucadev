@@ -1,42 +1,40 @@
-### 👋 Hi there! I´m Lucas.
+## 👋 Hi there! I´m Lucas. <br />
 
-<br />
+### Welcome to my profile!
 
-## Welcome to my profile!
+I´m a Software Developer from Tucuman, Argentina (UNSTA Software Development and Quality TSU), Design Degree student at SigloXXI, and full time challenge seeker.
 
-I´m a Bachelor's degree Design student at SigloXXI, part-time junior Front-End developer and full time challenge seeker.
+[instagram]
 
-- 🌱 I’m currently learning React Native, UI/UX and Project Managment.
-- 🥅 2021 goal: learn to be a digital product designer.
-- ⚡ Fun or sad fact: I love to draw, but I never managed to be more than an amateur.
+[linkedin]
 
-<br />
+- ⚡ **Fullstack developer React/Next & .NET.**
 
-## Languages and tools:
+- 🚀 **Tech knowledge:**
+	- **Frontend stack:** React/Next (JS & TS), TailwindCSS, Redux, Radix/Shadcn, and others.
+	- **Backend stack:** Node (JS & TS) & .NET (C#) 
+	- SQL (UML Design) & MongoDB. Redis but just for small purposes.
+	- **Software architecture patterns:** MVC/MVVM, N-Tier & Microservices using Node.js and .NET
+	- **Enterprise patterns:** Repository pattern, Unit of work pattern, Service pattern, CQRS pattern and others. -
+	- **Docker & Kubernetes.** -
+	- **English B2.**
 
-[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
+- 🥅 **Hobbies: Counter Strike 2, Age of Empires II, Football & ByteByteGo.**<br />
 
-[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
+[<img align="left" alt="React.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 
-[<img align="left" alt="SASS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
+[<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
 
-[<img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="dotnet" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />][dotnet]
 
-[<img align="left" alt="tailwindCSS" width="30px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" />][tailwindcss]
+[<img align="left" alt="docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][dotnet]
 
-[<img align="left" alt="Reactjs" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactjs]
+[<img align="left" alt="git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][dotnet]
 
-[<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-
-[<img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][firebase]
-
-[html5]: https://www.w3.org/html
-[css3]: https://www.w3.org/Style/CSS/Overview.en.html
-[javascript]: https://www.javascript.com
-[sass]: https://sass-lang.com
-[tailwindcss]: https://tailwindcss.com
-[firebase]: http://firebase.google.com
-[reactjs]: https://reactjs.org
+[react]: https://react.dev/
+[node]: https://nodejs.org/en
+[next]: https://nextjs.org/
+[dotnet]: https://dotnet.microsoft.com/en-us/
 [git]: https://git-scm.com
-[instagram]: https://instagram.com/lucas.iriartee
+[instagram]: https://instagram.com/lucas.i.gg
 [linkedin]: https://linkedin.com/in/lucasdanieliriarte
