@@ -2,7 +2,7 @@
 
 ### Welcome to my profile!
 
-I´m a Software Developer from Tucuman, Argentina (UNSTA Software Development and Quality TSU), Design Degree student at SigloXXI, and full time challenge seeker.
+I´m a Software Developer from Tucuman, Argentina (UNSTA Software Development and Quality Associate Degree), Design Degree student at SigloXXI, and full time challenge seeker.
 
 [instagram]
 
